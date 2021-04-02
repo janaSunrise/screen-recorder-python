@@ -10,5 +10,5 @@ numpy = "*"
 pillow = "*"
 opencv-python = "*"
 
-[requires]
-python_version = "3.8"
+[scripts]
+start = "python recorder.py"
